@@ -1,0 +1,6 @@
+{
+  "name": "SIMED - Status In Medicina",
+  "description": "მტკიცებულებითი თერაპია მწვავე საგამოცდო სინდრომისთვის. ციფრული პროტოკოლი მედიცინის სტუდენტებისთვის. ატვირთე საგამოცდო კითხვები, ჩართე სიმულაციის რეჟიმი და დაამტკიცე, რომ შენი ცოდნა პლაცებო ეფექტი არ არის.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
